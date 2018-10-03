@@ -19,5 +19,6 @@ var uppercase = "HELLO!"
 uppercase.toUpperCase() === uppercase
 
 function sayHiToGrandma(string) {
+  if ()
   return "I can't hear you"
 }
