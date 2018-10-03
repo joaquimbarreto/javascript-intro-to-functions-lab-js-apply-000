@@ -28,3 +28,8 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
 }
 
+var sayHiToGrandma = "I love you, Grandma."
+
+function sayHiToGrandma(string) {
+  return "I love you, too."
+}
