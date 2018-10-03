@@ -9,3 +9,5 @@ function whisper(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase)
 }
+
+function 
